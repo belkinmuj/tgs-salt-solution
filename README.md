@@ -1,2 +1,0 @@
-# TGS Salt Identification Challenge
-
